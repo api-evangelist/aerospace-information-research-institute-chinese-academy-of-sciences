@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aerospace Information Research Institute, Chinese Academy of Sciences is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.radi.ac.cn
+The Aerospace Information Research Institute (AIRI) of the Chinese Academy of Sciences conducts advanced research and development in aerospace information technologies, including satellite data processing, remote sensing, and aerospace communications. It collaborates with national space programs and academic institutions, providing scientific insights, data services, and technical support for aerospace missions and related industries.
+
+**Areas:** Company · Aerospace · Research · Satellite · Data · China
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.radi.ac.cn)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aerospace-information-research-institute-chinese-academy-of-sciences/](https://apis.io/providers/aerospace-information-research-institute-chinese-academy-of-sciences/).
